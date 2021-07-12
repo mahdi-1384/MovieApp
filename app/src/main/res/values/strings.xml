@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movieName">نام فیلم</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">نام : </string>
+    <string name="year">سال ساخت : </string>
+    <string name="search_a_movie">نام یک فیلم را جستجو کنید.</string>
+    <string name="rated">امتیاز : </string>
+    <string name="released">سال انتشار : </string>
+    <string name="runtime">مدت پخش : </string>
+    <string name="genre">ژانر : </string>
+    <string name="director">کارگردان : </string>
+    <string name="writer">نویسنده : </string>
+    <string name="actors">بازیگران : </string>
+    <string name="plot">بخشی از فیلم : </string>
+    <string name="language">زبان : </string>
+    <string name="country">کشور سازنده : </string>
+    <string name="awards">جایزه ها : </string>
+    <string name="poster">عکس : </string>
+    <string name="ratings">افتخارات</string>
+    <string name="type">دسته بندی : </string>
+    <string name="dvd">: dvd</string>
+    <string name="boxOffice">فروش : </string>
+    <string name="production">سازندگان : </string>
+    <string name="website">تارنما : </string>
+    <string name="search">جستجو</string>
+    <string name="connection_failed">اتصال ناموفق بود :</string>
+    <string name="check_internet_connection">اتصال به اینترنت را بررسی کنید.</string>
+    <string name="refresh">تازه سازی</string>
+    <string name="movie_not_exist">این فیلم در پایگاه داده وجود ندارد.</string>
+
+</resources>
